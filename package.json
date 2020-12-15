@@ -28,7 +28,7 @@
         "lodash.isequal": "^4.5.0"
     },
     "devDependencies": {
-        "@types/react-native": "^0.60.22",
+        "@types/react-native": "^0.63.40",
         "babel-jest": "^23.6.0",
         "babel-plugin-add-module-exports": "^1.0.2",
         "babel-plugin-transform-replace-object-assign": "^2.0.0",
